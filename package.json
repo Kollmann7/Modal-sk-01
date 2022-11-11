@@ -1,11 +1,13 @@
 {
   "name": "modal-sk-01",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A simple react component that show a modal",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "keywords": [
     "React",
+    "component",
+    "javascript",
     "Modal"
   ],
   "scripts": {
@@ -20,7 +22,7 @@
 		"type": "git",
 		"url": "https://github.com/Kollmann7/Modal-sk-01"
   },  
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
